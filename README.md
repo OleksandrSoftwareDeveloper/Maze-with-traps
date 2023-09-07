@@ -1,0 +1,2 @@
+# Maze with traps
+ 
