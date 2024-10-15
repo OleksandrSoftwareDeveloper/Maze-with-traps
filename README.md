@@ -1,4 +1,6 @@
 # Maze with traps
+
+#### https://youtube.com/watch?v=lSDzuOnyfmA
  
 In this game, the target is finding gold in the maze. The maze is generated procedurally, the player can open a map three times, also there is an opportunity to visualize a path to the gold on the map (it can be done only once). In the maze there are planes which throw bombs. The player loses if he touches a bomb or if the time is gone (the gold must be find in 2 minutes). In this project Prim's algorithm is used for generating the maze, also I have used the algorithm for finding path between two points in the maze.
 
